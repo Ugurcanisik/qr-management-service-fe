@@ -1,7 +1,8 @@
 node_modules
+src/config
 package-lock.json
+debug.log
 .env
 .idea
+dist/
 .DS_Store
-
-
